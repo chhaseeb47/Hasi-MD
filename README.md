@@ -15,29 +15,35 @@
     <h1 align="center">Hasi-1.O<br></h1>
    </a>
 </p>
-  
-<p align="center">
-<a href="https://github.com/chhaseeb47/Hasi-MD"><img title="Author" src="https://img.shields.io/badge/Hasi-BOT-black?style=for-the-badge&logo=whatsapp"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/chhaseeb47/Hasi-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/chhaseeb47/Hasi-MD?&style=social"></a>
-<a href="https://github.com/chhaseeb47/Hasi-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/chhaseeb47/Hasi-MD?style=social"></a>
-</p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{chhaseeb47}/count.svg" alt="CH HASEEB :: Visitor's Count" /></p>
-<p align="center">
- <a href="https://chat.whatsapp.com/G4FBtLiaB2f84hkT87LKZ4" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <p align="center">
+  <a aria-label="HASI MD is free to use" href="https://youtube.com/@mhmodsofc" target="_blank">
+    <img alt="MH MODS OFC Yt" src="https://img.shields.io/youtube/channel/subscribers/UCWHA-PreVSVaYhDTAiUipCA" target="_blank" />
   </a>
+
 </p>
+<p align="center"><img src="https://profile-counter.glitch.me/{chhaseeb47}/count.svg" alt="chhaseeb47 :: Visitor's Count" /></p>
 
 
-</br>
-<img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a> 
+
+  <p align="center">
+<a href="https://whatsapp.com/channel/0029Va8SjGU1noyxsYBA2K2e"><img src="https://img.shields.io/badge/Follow Wa Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCWHA-PreVSVaYhDTAiUipCA"><img src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://whatsapp.com/channel/0029VaFNrVHBfxoBuY2TzH2w"><img src="https://img.shields.io/badge/Join WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+   
+<p align="center">
+<a href="https://github.com/gssbotwa/followers"><img title="Followers" src="https://img.shields.io/github/followers/gssbotwa?color=red&style=flat-square"></a>
+<a href="https://github.com/chhaseeb47/HASI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/chhaseeb47/HASI-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/chhaseeb47/HASI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/chhaseeb47/HASI-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/chhaseeb47/HASI-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/chhaseeb47/HASI-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/chhaseeb47/HASI-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-%20HASEEB-red?v=103"></a>
+<a href="https://github.com/chhaseeb47/HASI-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/chhaseeb47/HASI-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/chhaseeb47/HASI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
 
 ---
 
-    
+ 
+# DEPLOY SETUP
 
 
 ### 1. FORK THIS REPO
@@ -132,51 +138,99 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 
   </br> 
 <h4 align="left">
-##𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :
-  
-***Tap On Logo To Subscribe MY YouTube Channel***
-</p>
- <p align="left">
-  <a href="https://www.youtube.com/@mhmodsofc?sub_confirmation=1">
-    <img alt=Support height="70" src="https://telegra.ph/file/eb6347e2764939fbbd35d.png"> 
-  </p>
-    
- ***Tap On Logo To Contat Me***
- <p align="left">
-  <a href="mailto:HELP_haseebrashid707@gmail.com ">
-    <img src="https://i.ibb.co/Kx8NXxT/mail-gmail-22737.png" align="centre" width="90" />
-   <a href="https://wa.me/923407472645?text=Hi%20Haseeb%20Sir...%20I%20need%20some%20help%20in%20Hasi-MD">
-    <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
-
-
-<p align="left">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/G4FBtLiaB2f84hkT87LKZ4" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Our Bot Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-
-
-
-</br>
-
-
-<h2 align="center">  Reminder
-</h2>
-   
-- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
-- I am not responsible for banning your account.
-- Use at your own risk by keeping this warning in mind.
-
 ---
 
-</p>
-<h1 align="center"> Thanks To MH MODS OFC YT
-</h1>
 
- <br><br>
+ <details close>
+<summary>𝙉𝙀𝙒 𝙐𝙋𝘿𝘼𝙏𝙀 & 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎 </summary>
+
+- ***HASI MD v1.2.9 Fixing***
+- *Fixed `All Ai` Commands*
+- *Fixed `Spotify` Command*
+- *Fixed `All Anime` Commands*
+- *Fixed `Insta,Fb,Tiktok` Commands*
+- *Fixed All Not Working Commands, Due To Api*
+- *Added `Pair Code` For Session ID*
+- *Added New `Session ID` For Bot*
+- *Added New `Qr`*
+- *Added Massive Anime*
+- *Added 11 AI*
+- *Added 18 GFX*
+- *Added Twitter Templates On Celebreties*
+- *Added `Afk` Cmd*
+- *Added `Teddy` Cmd*
+- *Fixed `Insta` Cmd*
+- *Fixed `Tiktok` Cmd*
+- *Fixed `Facebook` Cmd*
+- *Changed `Apk` Cmd Style*
+- *Changed `Hack` Cmd Style*
+- *Changed `Uptime` Cmd Style*
+- *Added Some New `Logos` Cmds*
+- *Added `Steal` Cmd For Sticker*
+- *Added `Islamic` Cmd Wallpaper*
+- *Added `Nasa` Cmd To Get Nasa News*
+- *Added `Tech` Cmd To Get Tech News*
+- *Fixed `Bgm` Cmd Added on/off Case*
+- *Fixed `Welcome` Cmd Added Off Case*
+- *Fixed `Goodbye` Cmd Added Off Case*
+- *Added `Mode` Cmd To Change Bot Mode*
+- *Renamed `plugins` Cmd To `Allplugins`*
+- *Added `Theme` Cmd To Change Bot Theme*
+- *Added `Ip` Cmd For Ip Address Stalking*
+- *Added `pp` Cmd To Change/Remove Your Dp*
+- *Added `Sticky` Cmd To Download Stickers*
+- *Fixed `Antibot` Cmd Added Delete Option*
+- *Fixed `Antilink` Cmd Added Delete Option*
+- *Fixed `Cpu` Cmd To Get Your Server Info*
+- *Added `Poetry` Cmd For Urdu/Hindi Poetry*
+- *Added `Gc` Cmd To Get Group Full Details*
+- *Added `Github` Cmd To Stalk Github Users*
+- *Added `Setprefix` Cmd To Change Bot Prefix*
+- *Added `Category` Cmd To Get All Categories*
+- *Moved `Media` Category To External PLugins*
+- *Added `Antiwords` Cmd To Prevent Bad Words*
+- *Added `#` Cmd To Download Someone's Status*
+- *Added `Calc` Cmd For Simple MAth Operations*
+- *Added `Lyrics` Cmd To Get Lyrics Of Any Song*
+- *Added `typing` Cmd To Turn On/Off Auto-Typing*
+- *Fixed `Help` Cmd To Get Details About Any Cmd*
+- *Added `Spotify` Cmd To Download Spotify Songs*
+- *Added `Online` Cmd To Turn On/Off Always-Online*
+- *Added `Tempmail` Cmd To Generate Mails/Get Info*
+- *Added `Plugin` Cmd To Get All External Plugins*
+- *Added `Npm1` Cmd To Get Info About Npm Packages*
+- *Added `Reaction` Cmd To Turn On/Off Auto-Reaction*
+- *Added `Read` Cmd To Turn On/Off Auto-Read Messages*
+- *Added `Stssaver` Cmd To Auto-Download Your Statuses*
+- *Added `Stsview` Cmd To Turn On/Off Auto-Status View*
+- *Added `Recording` Cmd To Turn On/Off Auto-Recording*
+- *Added `Insult` Cmd To Insult Someone By Mention/Reply*
+- *Added `Wamod` Cmd To Download Official Moded Whatsapps*
+- *Added `Levelup` Cmd To Turn On/Off Auto Levelup-Message*
+- *Added `Flirt` Cmd To Flirt With Someone By Mention/Reply*
+- *Added `Lines` Cmd To Throw Lines At Someone By Mention/Reply*
+
+</details>
 
 
 
+<h2 align="center"> ⭐ 𝑺𝒕𝒂𝒓 𝑻𝒉𝒊𝒔 𝑹𝒆𝒑𝒐 𝑰𝒇 𝒀𝒐𝒖 𝑳𝒊𝒌𝒆 𝙃𝘼𝙎𝙄 𝙈𝘿 
+</h2>
 
 
+<p align="center"> If You Need Any Help Or Any Problem Please Create An <a href="https://github.com/chhaseeb47/HASI-MD/issues">Issue & Problem</a></p>
 
+ 
+### `🧡 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
 
+- ***Who Helping Me***
+- ***Who Using This Bot***
+- ***Support Me By Subscribe On [Yt Channel](https://youtube.com/@mhmodsofc)***
+
+## ```📜 𝘋𝘪𝘴𝘤𝘭𝘢𝘪𝘮𝘦𝘳```
+
+- ***I will only Assist You in Bot Deployment and Hosting, Not in Bot Modifying.***
+- ***This Bot [HASI-MD](https://github.com/chhaseeb47/HASI-MD) Has Been Made Under The [Apache-2.0 license](https://github.com/chhaseeb47/HASI-MD/blob/main/LICENSE).***
+- ***So No Copy This Bot, Or Re-Uploading, Any Thing Not Allowed Without Permission***
+- ***If Someone Modify My Bot Or Try To Copy It I Will Instantly Give Legal Copy Right Strike And Ban That User Repo And Account***
+- ***This Bot Is Only For Fun and Helps***
